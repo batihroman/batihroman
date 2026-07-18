@@ -8,6 +8,9 @@ I'm building a cybersecurity skill set through hands-on labs and structured dail
 
 ## Projects
 
+**[APT Detection Lab](https://github.com/batihroman/apt-detection-lab/tree/main) 
+A SOC home lab that detects credential dumping — the same technique used by Russian military intelligence (APT28) against Ukrainian government organizations, documented by CERT-UA.
+
 **[Active Directory Home Lab](https://github.com/batihroman/Home-Lab-Active-Directory-Project)**
 Built a Windows Server domain with 1,056 users, organizational units, group policies, and a domain-joined Windows 10 client. After building it, documented what a SOC analyst would actually monitor in this environment and where the security gaps are.
 
